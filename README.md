@@ -91,7 +91,7 @@ I used it as a starting point and adapted/expanded it for my own purposes.
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About Me
+## :milky_way: About Me
 
-Hi there! I'm **Paulina**. I’m an IT professional with a strong interest in data and machine learning, as well as neuroscience and the universe. I enjoy learning new things and would like to continue developing my skills and expanding my knowledge in the field of data..
+Hi there! I'm **Paulina**. I’m an IT professional with a strong interest in data and machine learning, as well as neuroscience and the universe. I enjoy learning new things and would like to continue developing my skills and expanding my knowledge in the field of data.
 
