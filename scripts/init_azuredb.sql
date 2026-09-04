@@ -14,8 +14,10 @@ To use this approach, you must activate a free subscription in Microsoft Azure a
 - Create the Database: Create a database associated with the SQL Server instance.
 - Configure Authentication: Select the authentication method. For this project, SQL Authentication was used.
 - Set Credentials: Define the SQL administrator username and password. Make sure to store these credentials securely.
-- Configure Firewall Rules: If access to the SQL Server is restricted by firewall rules, add the client's public IP address to the server's firewall configuration to allow the application to establish a connection.
-- Once these resources have been configured, the database can be accessed remotely through Azure, eliminating the need for a local MS SQL Server Express installation.
+- Configure Firewall Rules: If access to the SQL Server is restricted by firewall rules, add the client's public IP address
+to the server's firewall configuration to allow the application to establish a connection.
+- Once these resources have been configured, the database can be accessed remotely through Azure, eliminating the need for a
+local MS SQL Server Express installation.
 	
 DATABASE:
 You can create a database named datawarehouse directly. Then, use the SQL QUERY EDITOR to create the corresponding schemas 
